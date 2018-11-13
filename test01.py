@@ -8,4 +8,3 @@
 
 print('welcome to qytang1')
 print('welcome to python')
-print('welcome to zhangjian')
