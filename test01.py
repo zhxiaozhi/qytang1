@@ -6,8 +6,4 @@
 #人生苦短，我用Python
 
 
-print('welcome to qytang1')
-print('welcome to python')
-print('welcome to xiewangping')
-print('welcome to python123')
-print('welcome to lalala')
+print('welcome to qytang1234567')
